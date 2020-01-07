@@ -1,2 +1,2 @@
-# dockerSYGNAL
-A dockerized version of the SYstems Genetics Network AnaLysis (SYGNAL) pipeline.
+# docker_cMonkey2
+A dockerized version of cMonkey2.
