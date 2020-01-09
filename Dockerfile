@@ -20,7 +20,7 @@ RUN apt-get install --yes \
  r-base-dev
 
 # Install additional python packages using pip3
-RUN pip3 install numpy scipy pandas biopython beautifulsoup4 rpy2 SQLAlchemy SQLAlchem-Utils svgwrite cherrypy Jinja2 Routes
+RUN pip3 install numpy scipy pandas biopython beautifulsoup4 rpy2 SQLAlchemy SQLAlchemy-Utils svgwrite cherrypy Jinja2 Routes
 
 # Install MEME
 RUN apt-get install curl -y
