@@ -13,6 +13,7 @@ RUN apt-get install --yes \
  vim-common \
  wget \
  python3 \
+ python3-pip \
  git \
  pigz \
  r-base \
